@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me maheshgajulababu05@gmail.com
 
-I like the skills and enhance them perpetually
+I always love to enhance my skills perpetually
 Kubernetes
 Docker
 Ansible
