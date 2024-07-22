@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MaheshBabu-123
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on react js projects
+- 👋 Hi, I’m @MaheshBabu-123 
+- 🌱 I’m currently learning CKA
+- 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me maheshgajulababu05@gmail.com
 
 <!---
